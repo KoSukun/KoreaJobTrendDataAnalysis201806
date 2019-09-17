@@ -1,11 +1,11 @@
 ---
 title: "20대 업종형태 트렌드와 지역별 차이 분석"
 output: pdf_document:
-  latex_engine: xelatex
 mainfont: MalgunGothic
 ---
 
 ```{r setup, include=FALSE}
+
 library(foreign)
 library(dplyr)
 library(ggplot2)
